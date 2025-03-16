@@ -1,0 +1,57 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>DailyTasks</AssemblyName>
+    <ApplicationIcon>DailyTask-2-Icon-256.ico</ApplicationIcon>
+    <PackageIcon>DailyTask-3-256.png</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="p5zs2e44.nka~" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="DailyTask-2-Icon-256.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\Assets2\DailyTask-3-256.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="SunnyUI" Version="3.4.1" />
+    <PackageReference Include="System.Data.SQLite" Version="1.0.118" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ToolsForOffice.CopyClipboard\ToolsForOffice.CopyClipboard.csproj" />
+    <ProjectReference Include="..\ToolsForOffice.Notification\ToolsForOffice.Notification.csproj" />
+    <ProjectReference Include="..\ToolsForOffice.ScreenshotShare\ToolsForOffice.ScreenshotShare.csproj" />
+    <ProjectReference Include="..\ToolsForOffice.Shared\ToolsForOffice.Shared.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

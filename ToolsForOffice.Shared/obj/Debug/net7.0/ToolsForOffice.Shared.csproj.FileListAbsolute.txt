@@ -1,0 +1,16 @@
+D:\Code\WinForms\ToolsForOfficeSqlite++\ToolsForOfficeSqlite\ToolsForOffice\ToolsForOffice.Shared\bin\Debug\net7.0\ToolsForOffice.Shared.deps.json
+D:\Code\WinForms\ToolsForOfficeSqlite++\ToolsForOfficeSqlite\ToolsForOffice\ToolsForOffice.Shared\bin\Debug\net7.0\ToolsForOffice.Shared.runtimeconfig.json
+D:\Code\WinForms\ToolsForOfficeSqlite++\ToolsForOfficeSqlite\ToolsForOffice\ToolsForOffice.Shared\bin\Debug\net7.0\ToolsForOffice.Shared.dll
+D:\Code\WinForms\ToolsForOfficeSqlite++\ToolsForOfficeSqlite\ToolsForOffice\ToolsForOffice.Shared\bin\Debug\net7.0\ToolsForOffice.Shared.pdb
+D:\Code\WinForms\ToolsForOfficeSqlite++\ToolsForOfficeSqlite\ToolsForOffice\ToolsForOffice.Shared\obj\Debug\net7.0\ToolsForOffice.Shared.csproj.AssemblyReference.cache
+D:\Code\WinForms\ToolsForOfficeSqlite++\ToolsForOfficeSqlite\ToolsForOffice\ToolsForOffice.Shared\obj\Debug\net7.0\ToolsForOffice.Shared.Migrations.InitialCreate.resources
+D:\Code\WinForms\ToolsForOfficeSqlite++\ToolsForOfficeSqlite\ToolsForOffice\ToolsForOffice.Shared\obj\Debug\net7.0\ToolsForOffice.Shared.csproj.GenerateResource.cache
+D:\Code\WinForms\ToolsForOfficeSqlite++\ToolsForOfficeSqlite\ToolsForOffice\ToolsForOffice.Shared\obj\Debug\net7.0\ToolsForOffice.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\WinForms\ToolsForOfficeSqlite++\ToolsForOfficeSqlite\ToolsForOffice\ToolsForOffice.Shared\obj\Debug\net7.0\ToolsForOffice.Shared.AssemblyInfoInputs.cache
+D:\Code\WinForms\ToolsForOfficeSqlite++\ToolsForOfficeSqlite\ToolsForOffice\ToolsForOffice.Shared\obj\Debug\net7.0\ToolsForOffice.Shared.AssemblyInfo.cs
+D:\Code\WinForms\ToolsForOfficeSqlite++\ToolsForOfficeSqlite\ToolsForOffice\ToolsForOffice.Shared\obj\Debug\net7.0\ToolsForOffice.Shared.csproj.CoreCompileInputs.cache
+D:\Code\WinForms\ToolsForOfficeSqlite++\ToolsForOfficeSqlite\ToolsForOffice\ToolsForOffice.Shared\obj\Debug\net7.0\ToolsForOffice.Shared.dll
+D:\Code\WinForms\ToolsForOfficeSqlite++\ToolsForOfficeSqlite\ToolsForOffice\ToolsForOffice.Shared\obj\Debug\net7.0\refint\ToolsForOffice.Shared.dll
+D:\Code\WinForms\ToolsForOfficeSqlite++\ToolsForOfficeSqlite\ToolsForOffice\ToolsForOffice.Shared\obj\Debug\net7.0\ToolsForOffice.Shared.pdb
+D:\Code\WinForms\ToolsForOfficeSqlite++\ToolsForOfficeSqlite\ToolsForOffice\ToolsForOffice.Shared\obj\Debug\net7.0\ToolsForOffice.Shared.genruntimeconfig.cache
+D:\Code\WinForms\ToolsForOfficeSqlite++\ToolsForOfficeSqlite\ToolsForOffice\ToolsForOffice.Shared\obj\Debug\net7.0\ref\ToolsForOffice.Shared.dll
