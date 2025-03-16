@@ -1,5 +1,3 @@
-# Create README.md file
-cat > README.md << 'EOL'
 # ToolsForOffice: Daily Tasks Application
 
 A feature-rich WinForms desktop application focused on task management with additional productivity tools.
